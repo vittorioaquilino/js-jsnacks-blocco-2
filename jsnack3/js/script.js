@@ -7,9 +7,6 @@ console.log("numero inserito", userNumber);
 // creo un array vuoto
 const numberList = [];
 
-const showButton = document.getElementById("cube-list");
-console.log(showButton);
-
 // inizio il ciclo
 for (let i = 0; i <= userNumber; i++) {
     // faccio il cubo del numero
